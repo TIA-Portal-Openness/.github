@@ -1,4 +1,4 @@
-## Hi there 👋
+## Raccolta di esempi Openness
 
 Possiamo sbizzarrirci!
 
