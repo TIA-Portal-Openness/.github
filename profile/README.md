@@ -1,12 +1,8 @@
 ## Raccolta di esempi Openness
 
-Possiamo sbizzarrirci!
+TIA Portal Openness è una funzionalità molto potente che permette di realizzare le più svariate applicazioni per automatizzare alcune fasi di progettazione in TIA Portal. Sul Sito Support Siemens è presente un manuale molto completo che descrive tutte le classi con relativi attributi e metodi che TIA Portal Openness mette a disposizione.
 
-**Here are some ideas to get you started:**
+Questa Organization Github mette a disposizione degli esempi che mettono insieme alcuni di questi metodi per creare gli UseCase che possono capitare più spesso a chi programma in TIA Portal. 
+Non si ha l'obiettivo di distribuire applicazioni 'ready to use', ma mettere a disposizione dei file C# che facciano capire, per ogni UseCase, quali sono gli oggetti da creare e i metodi da utilizzare per creare la propria personale applicazione.   
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
